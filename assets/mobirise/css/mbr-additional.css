@@ -1926,6 +1926,13 @@ body {
   padding-bottom: 90px;
   background: linear-gradient(45deg, #dbd4b8, #25aab2);
 }
+.cid-riAH1o6P76 .main {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-riAH1o6P76 .main .mbr-section-btn {
+  text-align: right;
+}
 .cid-riAH1o6P76 .btn {
   margin: 0 0 .5rem 0;
 }
